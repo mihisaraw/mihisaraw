@@ -9,6 +9,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mihisaraw&label=Profile%20views&color=0e75b6&style=flat" alt="mihisaraw" /> </p>
 
+<br>
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+🎓 &nbsp;I am Currently studying at Institute of Technology,University of Moratuwa.\
+💡 &nbsp;I like to explore new technologies and develop knowledge about Devops tools.\
+🌱 &nbsp;I'm on track for learning more about Docker,Kubernetes,Terraform,Ansible like Devops tools.\
+✍️ &nbsp;In my free time, I listing music and play video games as hobbies.\
+✉️ &nbsp;You can send an email at mihisarawijaya@gmail.com! I'll try to respond as soon as I can.
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -23,8 +38,9 @@
 </p>
 
 
+
 ### DevOps Tools :
-<p align="center">
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="100"/>
@@ -38,8 +54,17 @@
   <img src="https://skillicons.dev/icons?i=grafana" alt="Terraform" width="100"/>
   </p>
 
+<br>
 
+ >>> <p align = "center", style="font-family:Georgia, serif; font-size:18px; font-style:italic; color:#4ef1c3;">
+ <p align="center">
+“Success isn’t always about greatness. It’s about consistency. Consistent hard work leads to success. Greatness will come.”<br>
+ </p>
 
+> <p style="font-family:'Segoe UI', sans-serif; font-size:16px; text-align:right; color:#6ea8ff; margin-top:5px;">
+<p align="right">
+> — <b>Dwayne "The Rock" Johnson — </b>
+> </p>
 
 
 
